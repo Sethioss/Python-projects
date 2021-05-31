@@ -16,7 +16,7 @@ If you choose "Yes", a number between 1 and 510 will be needed from the user. Th
 
 Keep in mind that a larger width will increase the final output's precision, but also the png file's generation time.
 
-### Examples
+## Examples
 
 All images have been converted using the maximum width (The ASCII art txt files are available in the source project)  
 All images belong to their respective owners
