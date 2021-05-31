@@ -11,7 +11,7 @@ Using the numeral base calculator is very simple! All you have to do is input a 
 
 ## Errors
 
-ERR::102: The input number isn't compatible (Has punctuation marks like ',', ';', '?')  
+ERR::102: The input number is not an acceptable value (Has punctuation marks like ',', ';', '?')  
 ![ERR102](https://user-images.githubusercontent.com/55959375/120174428-60d30800-c205-11eb-9917-34d911bd714d.PNG)  
 
 -------
