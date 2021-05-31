@@ -16,5 +16,5 @@ ERR::102: The input number is not an acceptable value (Has punctuation marks lik
 
 -------
 
-ERR::103: The input base doesn't correspond to the input number's minimum possible base (Base 4 for an input number of 76)  
+ERR::103: The input base doesn't correspond to the input number's minimum possible base (Base 4 for an input number of 76 for example)  
 ![ERR103](https://user-images.githubusercontent.com/55959375/120174462-692b4300-c205-11eb-9212-785d4583f089.PNG)  
