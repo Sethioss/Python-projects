@@ -26,7 +26,7 @@ def start_conversion(image_path, width_size):
 def process_url(url):
     new_url = url.replace("\\", "/")
     new_url = new_url[1:-1]
-    print(new_url)
+    print("Fetching " + new_url)
     return new_url
 
 def get_image_name(url):
@@ -108,7 +108,7 @@ def pixel_to_character(image_to_process, text_to_process):
 
     print(text_to_process)
     
-    print('Image found! Please wait while the algorithm writes your ASCII image into a png file...')
+    print('TXT file written! Please wait while the algorithm writes the txt file into a png file...')
     image = text_image(text_to_process)
     image.save(ASCII_PATH + get_image_name(im).replace('(Resized)', '') + "(ASCII).png")
     os.remove(image_to_process)
