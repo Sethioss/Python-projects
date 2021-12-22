@@ -11,8 +11,8 @@ Upon launching the program, choose an image to convert into ASCII art. The origi
 ## Resizing
 
 The program will ask you if you want a specific size to resize your image to. Since each character is written in a set of two to keep accurate proportions in the txt file, this size corresponds to half the number of characters per line in the .txt file.  
-If you choose "No", the image will be automatically resized to the maximum width, which corresponds to 510.  
-If you choose "Yes", a number between 1 and 510 will be needed from the user. The image will proportionally be resized to fit the length provided by the user.  
+If you choose "No", the image will be automatically resized to the maximum number a .txt can have on a single lin, which corresponds to 510 (2*510 = 1020 characters, the maximum being 1024).  
+If you choose "Yes", a number between 1 and 510 will be needed from the user. The image will proportionally be resized to fit the width provided by the user.  
 
 Keep in mind that a larger width will increase the final output's precision, but also the png file's generation time and size.
 
