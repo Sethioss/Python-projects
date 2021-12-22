@@ -18,7 +18,7 @@ Keep in mind that a larger width will increase the final output's precision, but
 
 ## Examples
 
-All images have been converted using the maximum width (The ASCII art txt files are available in the source project)  
+All images have been converted using the maximum width (The ASCII art txt and png files are available in the source project)  
 All images belong to their respective owners
 
 ![Angel_Dust](https://user-images.githubusercontent.com/55959375/120187318-edd18d80-c214-11eb-9acb-ec7d18fedc0b.png)
