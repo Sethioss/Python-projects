@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-/!\If the program doesn't launch, you might need to install the PIL library /!\
+/!\ If the program doesn't launch, you might need to install the PIL library /!\
 
 This simple tool allows you to convert any image file into an ASCII art of the said image in two formats. A .txt file for copypasting, and a .png file for sending or uploading as an image.  
 
